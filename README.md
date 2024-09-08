@@ -31,4 +31,4 @@ https://www.theforage.com/virtual-internships/R5iK7HMxJGBgaSbvk
 
 
 ## My Certificate of Completion
-(https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZetnL79wtKSFCenQK_1725828847295_completion_certificate.pdf)
+![](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_ZetnL79wtKSFCenQK_1725828847295_completion_certificate.pdf)
